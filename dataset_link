@@ -1,8 +1,8 @@
-use the below link for direct dataset wen connection in tableau:
+use the below link for direct dataset wen connection in tableau :
 
 https://tableau.data.world/?dataset_name=covid-19-data-resource-hub%2Fcovid-19-case-counts&query=SELECT%20*%0AFROM%20covid_19_cases&queryType=SQL
 
 
-use the below link to get offline .csv dataset:
+use the below link to get offline .csv dataset :
 
 https://www.tableau.com/covid-19-coronavirus-data-resources?utm_source=Public+Gallery&utm_campaign_id=2018128
