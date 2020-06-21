@@ -5,6 +5,6 @@ To view Dashboard:
 
 1. Visit the google page(https://public.tableau.com/shared/ZS3NC68S7?:display_count=y&:origin=viz_share_link)
 
-OR
+                                                OR
 
 2. download raw file in repository and open with Tableau(note : you need to be installed tableau public on your PC)
