@@ -7,4 +7,4 @@ To view Dashboard:
 
                                                 OR
 
-2. download raw file in repository and open with Tableau(note : you need to be installed tableau public on your PC)
+2. download raw file in repository and open with Tableau (you need to be installed tableau public on your PC)
