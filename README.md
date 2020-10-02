@@ -1,5 +1,5 @@
-## COVID 19 DataVisualization Dashboard
-Visualizing covid-19 data across all geographical locations  to create DataVisualization Dashboard using tableau-2020 (Dataset as of 6th june 2020)
+## COVID 19 Data visualization Dashboard
+    Visualizing covid-19 data across all geographical locations  to create DataVisualization Dashboard using tableau-2020 (Dataset as of 6th june 2020)
 
 To view Dashboard:
 
